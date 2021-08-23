@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://crowngoldinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://crowngoldinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://crowngoldinc.com/collections/rose-gold-plain.atom"/>
+  <title>Crown Gold Inc. Wholesale Gold Jewelry</title>
+  <updated>2019-07-25T17:44:16-07:00</updated>
+  <author>
+    <name>Crown Gold Inc. Wholesale Gold Jewelry</name>
+  </author>
+  <entry>
+    <id>https://crowngoldinc.com/products/3943195213922</id>
+    <published>2019-07-25T17:44:16-07:00</published>
+    <updated>2019-07-25T17:44:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/bangle-27"/>
+    <title>9.6 g</title>
+    <s:type>Bangles</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/BR_17.jpg?v=1569632390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bangles<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Bangle</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Size 58 mm * 69 mm</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Weight ~ 9.6 g</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Width - 6 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangles</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/3943195213922</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/3943195148386</id>
+    <published>2019-07-25T17:43:18-07:00</published>
+    <updated>2019-07-25T17:43:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/bangle-26"/>
+    <title>7 g</title>
+    <s:type>Bangles</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/BR_16.jpg?v=1569632389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bangles<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Bangle</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Size 61 mm * 72 mm</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Weight ~ 7 g</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Width - 4 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangles</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/3943195148386</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/3943195050082</id>
+    <published>2019-07-25T17:41:42-07:00</published>
+    <updated>2019-07-25T17:41:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/bangle-25"/>
+    <title>5.9 g</title>
+    <s:type>Bangles</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/BR_15.jpg?v=1569632389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bangles<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Bangle</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Size 61 mm * 70 mm</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Weight ~ 5.9 g</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Width - 3 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangles</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/3943195050082</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

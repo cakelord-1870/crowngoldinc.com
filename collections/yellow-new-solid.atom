@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://crowngoldinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://crowngoldinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://crowngoldinc.com/collections/yellow-new-solid.atom"/>
+  <title>Crown Gold Inc. Wholesale Gold Jewelry</title>
+  <updated>2021-08-20T10:21:40-07:00</updated>
+  <author>
+    <name>Crown Gold Inc. Wholesale Gold Jewelry</name>
+  </author>
+  <entry>
+    <id>https://crowngoldinc.com/products/6630000492653</id>
+    <published>2021-08-20T10:21:40-07:00</published>
+    <updated>2021-08-20T10:21:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/bg14"/>
+    <title>BG14</title>
+    <s:type>Bangles</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3473.jpg?v=1629480121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bangles<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>15.0 mm x 73.0 mm</li>
+<li>Weight ~ 19.2 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6630000492653</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6630000427117</id>
+    <published>2021-08-20T10:21:09-07:00</published>
+    <updated>2021-08-20T10:21:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/bg13"/>
+    <title>BG13</title>
+    <s:type>Bangles</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3472.jpg?v=1629480095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bangles<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>14.8 mm x 72.8 mm</li>
+<li>Weight ~ 19.2 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6630000427117</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6630000328813</id>
+    <published>2021-08-20T10:20:48-07:00</published>
+    <updated>2021-08-20T10:20:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/bg12"/>
+    <title>BG12</title>
+    <s:type>Bangles</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3471.jpg?v=1629480065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bangles<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>15.0 mm x 73.0 mm</li>
+<li>Weight ~ 19.9 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6630000328813</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6630000066669</id>
+    <published>2021-08-20T10:19:46-07:00</published>
+    <updated>2021-08-20T10:19:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/bg11"/>
+    <title>BG11</title>
+    <s:type>Bangles</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3470.jpg?v=1629479998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bangles<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>15.0 mm x 73.8 mm</li>
+<li>Weight ~ 17.3 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6630000066669</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6630000001133</id>
+    <published>2021-08-20T10:18:57-07:00</published>
+    <updated>2021-08-20T10:18:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/bg10"/>
+    <title>BG10</title>
+    <s:type>Bangles</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3469.jpg?v=1629479957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bangles<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>9.8 mm x 71.6 mm</li>
+<li>Weight ~ 11.6 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6630000001133</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6629999935597</id>
+    <published>2021-08-20T10:18:28-07:00</published>
+    <updated>2021-08-20T10:18:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/bg9"/>
+    <title>BG9</title>
+    <s:type>Bangles</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3468.jpg?v=1629479931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bangles<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>9.7 mm x 71.6 mm</li>
+<li>Weight ~ 11.5 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6629999935597</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6629999738989</id>
+    <published>2021-08-20T10:18:17-07:00</published>
+    <updated>2021-08-20T10:18:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/bg8"/>
+    <title>BG8</title>
+    <s:type>Bangles</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3467.jpg?v=1629479899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bangles<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>9.7 mm x 71.6 mm</li>
+<li>Weight ~ 11.2 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6629999738989</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6629999706221</id>
+    <published>2021-08-20T10:17:22-07:00</published>
+    <updated>2021-08-20T10:17:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/bg7"/>
+    <title>BG7</title>
+    <s:type>Bangles</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3466.jpg?v=1629479866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bangles<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>9.8 mm x 71.5 mm</li>
+<li>Weight ~ 10.7 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6629999706221</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6629999542381</id>
+    <published>2021-08-20T10:16:42-07:00</published>
+    <updated>2021-08-20T10:16:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/bg6"/>
+    <title>BG6</title>
+    <s:type>Bangles</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3465.jpg?v=1629479814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bangles<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>9.7 mm x 71.8 mm</li>
+<li>Weight ~ 11.2 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6629999542381</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6629999476845</id>
+    <published>2021-08-20T10:16:16-07:00</published>
+    <updated>2021-08-20T10:16:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/bg5"/>
+    <title>BG5</title>
+    <s:type>Bangles</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3464.jpg?v=1629479792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bangles<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>7.9 mm x 71.4 mm</li>
+<li>Weight ~ 10.7 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6629999476845</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6629999345773</id>
+    <published>2021-08-20T10:15:41-07:00</published>
+    <updated>2021-08-20T10:15:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/bg4"/>
+    <title>BG4</title>
+    <s:type>Bangles</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3463.jpg?v=1629479760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bangles<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>7.9 mm x 71.4 mm</li>
+<li>Weight ~ 10.8 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6629999345773</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6629999247469</id>
+    <published>2021-08-20T10:14:56-07:00</published>
+    <updated>2021-08-20T10:14:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/bg3"/>
+    <title>BG3</title>
+    <s:type>Bangles</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3462.jpg?v=1629479725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bangles<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>7.9 mm x 71.4 mm</li>
+<li>Weight ~ 10.2 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6629999247469</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6629998919789</id>
+    <published>2021-08-20T10:14:33-07:00</published>
+    <updated>2021-08-20T10:14:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/bg2"/>
+    <title>BG2</title>
+    <s:type>Bangles</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3461.jpg?v=1629479671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bangles<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>7.8 mm x 71.3 mm</li>
+<li>Weight ~ 10.1 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6629998919789</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6629998329965</id>
+    <published>2021-08-20T10:10:43-07:00</published>
+    <updated>2021-08-20T10:10:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/bg1"/>
+    <title>BG1</title>
+    <s:type>Bangles</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3460.jpg?v=1629479443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bangles<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>7.8 mm x 71.4 mm</li>
+<li>Weight ~ 10.2 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6629998329965</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

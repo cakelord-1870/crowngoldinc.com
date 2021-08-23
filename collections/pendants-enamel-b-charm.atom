@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://crowngoldinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://crowngoldinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://crowngoldinc.com/collections/pendants-enamel-b-charm.atom"/>
+  <title>Crown Gold Inc. Wholesale Gold Jewelry</title>
+  <updated>2021-08-02T11:07:56-07:00</updated>
+  <author>
+    <name>Crown Gold Inc. Wholesale Gold Jewelry</name>
+  </author>
+  <entry>
+    <id>https://crowngoldinc.com/products/6613779710061</id>
+    <published>2021-08-02T11:07:56-07:00</published>
+    <updated>2021-08-02T11:07:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/pn38-19"/>
+    <title>PN38-19</title>
+    <s:type>pendant</s:type>
+    <s:vendor>Crown Gold Inc. Wholesale Gold Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3316.jpg?v=1627927704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc. Wholesale Gold Jewelry<br>
+        <strong>Type: </strong>pendant<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>12.3 mm 8.1 mm <br>
+</li>
+<li>Weight ~ 0.6 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6613779710061</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6613779447917</id>
+    <published>2021-08-02T11:07:30-07:00</published>
+    <updated>2021-08-02T11:07:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/pn38-15"/>
+    <title>PN38-15</title>
+    <s:type>pendant</s:type>
+    <s:vendor>Crown Gold Inc. Wholesale Gold Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3315.jpg?v=1627927661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc. Wholesale Gold Jewelry<br>
+        <strong>Type: </strong>pendant<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>15.6 mm x 11.8 mm</li>
+<li>Weight ~ 1.6 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6613779447917</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6613779284077</id>
+    <published>2021-08-02T11:07:11-07:00</published>
+    <updated>2021-08-02T11:07:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/pn38-14"/>
+    <title>PN38-14</title>
+    <s:type>pendant</s:type>
+    <s:vendor>Crown Gold Inc. Wholesale Gold Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3314.jpg?v=1627927641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc. Wholesale Gold Jewelry<br>
+        <strong>Type: </strong>pendant<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>15.6 mm x 11.8 mm</li>
+<li>Weight ~ 1.6 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6613779284077</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6613779153005</id>
+    <published>2021-08-02T11:06:57-07:00</published>
+    <updated>2021-08-02T11:06:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/pn38-13"/>
+    <title>PN38-13</title>
+    <s:type>pendant</s:type>
+    <s:vendor>Crown Gold Inc. Wholesale Gold Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3313.jpg?v=1627927618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc. Wholesale Gold Jewelry<br>
+        <strong>Type: </strong>pendant<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>15.6 mm x 11.8 mm</li>
+<li>Weight ~ 1.6 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6613779153005</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/3943353188450</id>
+    <published>2019-07-26T10:30:53-07:00</published>
+    <updated>2019-07-26T10:30:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/pendants-175"/>
+    <title>PN38-17</title>
+    <s:type>pendant</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/339P.jpg?v=1569632471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>pendant<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Size 9 mm x 17 mm</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Weight ~ 1.4 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pendant</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/3943353188450</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/3943352729698</id>
+    <published>2019-07-26T10:27:50-07:00</published>
+    <updated>2019-07-26T10:27:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/pendants-172"/>
+    <title>PN38-16</title>
+    <s:type>pendant</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/333P.jpg?v=1569632470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>pendant<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Size 10 mm x 18 mm</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Weight ~ 0.8 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pendant</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/3943352729698</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/3943230439522</id>
+    <published>2019-07-25T22:17:31-07:00</published>
+    <updated>2019-07-25T22:17:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/pendants-75"/>
+    <title>PN38-20</title>
+    <s:type>pendant</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/341P.jpg?v=1569632428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>pendant<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">D<span class="tlid-translation translation" lang="en"><span title="" class="">iameter</span></span> 6 mm</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Weight ~ 0.4 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pendant</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/3943230439522</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku>123456789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/3943230275682</id>
+    <published>2019-07-25T22:16:29-07:00</published>
+    <updated>2019-07-25T22:16:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/pendants-74"/>
+    <title>PN38-10</title>
+    <s:type>pendant</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/340P.jpg?v=1569632428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>pendant<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">D<span class="tlid-translation translation" lang="en"><span title="" class="">iameter</span></span> 13 mm</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Weight ~ 1.8 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pendant</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/3943230275682</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/3943230111842</id>
+    <published>2019-07-25T22:15:16-07:00</published>
+    <updated>2019-07-25T22:15:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/pendants-73"/>
+    <title>PN38-11</title>
+    <s:type>pendant</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/338P.jpg?v=1569632427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>pendant<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">D<span class="tlid-translation translation" lang="en"><span title="" class="">iameter</span></span> 9 mm</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Weight ~ 1.1 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pendant</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/3943230111842</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/3943230013538</id>
+    <published>2019-07-25T22:14:27-07:00</published>
+    <updated>2019-07-25T22:14:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/pendants-72"/>
+    <title>PN38-12</title>
+    <s:type>pendant</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/337P.jpg?v=1569632427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>pendant<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">D<span class="tlid-translation translation" lang="en"><span title="" class="">iameter</span></span> 6 mm</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Weight ~ 0.5 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pendant</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/3943230013538</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://crowngoldinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://crowngoldinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://crowngoldinc.com/collections/bracelets-white-gold-id-figaro.atom"/>
+  <title>Crown Gold Inc. Wholesale Gold Jewelry</title>
+  <updated>2021-06-22T10:38:43-07:00</updated>
+  <author>
+    <name>Crown Gold Inc. Wholesale Gold Jewelry</name>
+  </author>
+  <entry>
+    <id>https://crowngoldinc.com/products/6588500344941</id>
+    <published>2021-06-22T10:38:43-07:00</published>
+    <updated>2021-06-22T10:38:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/200-white-gold-id-figaro"/>
+    <title>200 White Gold ID Figaro</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3144.jpg?v=1624383524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588500344941</id>
+      <title>8 inch ~ 16.8 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588500344941</id>
+      <title>8.5 inch ~ 17.9 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588500344941</id>
+      <title>9 inch ~ 19.0 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6588071706733</id>
+    <published>2021-06-21T13:23:02-07:00</published>
+    <updated>2021-06-21T13:23:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/180-white-gold-id-figaro"/>
+    <title>180 White Gold ID Figaro</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3143.jpg?v=1624306993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588071706733</id>
+      <title>8 inch ~ 12.9 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588071706733</id>
+      <title>8.5 inch ~ 13.7 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588071706733</id>
+      <title>9 inch ~ 14.5</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6588071313517</id>
+    <published>2021-06-21T13:21:48-07:00</published>
+    <updated>2021-06-21T13:21:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/160-white-gold-id-figaro"/>
+    <title>160 White Gold ID Figaro</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3142.jpg?v=1624306921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588071313517</id>
+      <title>7.5 inch ~ 9.8 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588071313517</id>
+      <title>8 inch ~ 10.5 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588071313517</id>
+      <title>8.5 inch ~ 11.1 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6588070920301</id>
+    <published>2021-06-21T13:20:51-07:00</published>
+    <updated>2021-06-21T13:20:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/140-white-gold-id-figaro"/>
+    <title>140 White Gold ID Figaro</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3141.jpg?v=1624306867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588070920301</id>
+      <title>7 inch ~ 7.2 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588070920301</id>
+      <title>7.5 inch ~ 7.7 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588070920301</id>
+      <title>8 inch ~ 8.2 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6588070133869</id>
+    <published>2021-06-21T13:17:39-07:00</published>
+    <updated>2021-06-21T13:17:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/120-white-gold-id-figaro"/>
+    <title>120 White Gold ID Figaro</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3140.jpg?v=1624306671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588070133869</id>
+      <title>7 inch ~ 6.8 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588070133869</id>
+      <title>7.5 inch ~ 7.3 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588070133869</id>
+      <title>8 inch ~ 7.8 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6588069838957</id>
+    <published>2021-06-21T13:16:47-07:00</published>
+    <updated>2021-06-21T13:16:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/120-white-gold-baby-id-figaro-1"/>
+    <title>120 White Gold Baby ID Figaro</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3139.jpg?v=1624306619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588069838957</id>
+      <title>5.5 inch ~ 4.3 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588069838957</id>
+      <title>6 inch ~ 4.7 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588069838957</id>
+      <title>6.5 inch ~ 5.1 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6588069609581</id>
+    <published>2021-06-21T13:15:53-07:00</published>
+    <updated>2021-06-21T13:15:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/100-white-gold-baby-id-figaro"/>
+    <title>100 White Gold Baby ID Figaro</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3138.jpg?v=1624306565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588069609581</id>
+      <title>5.5 inch ~ 3.4 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588069609581</id>
+      <title>6 inch ~ 3.7 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588069609581</id>
+      <title>6.5 inch ~ 4.0 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6588069347437</id>
+    <published>2021-06-21T13:14:59-07:00</published>
+    <updated>2021-06-21T13:14:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/080-white-gold-baby-id-figaro"/>
+    <title>080 White Gold Baby ID Figaro</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3137.jpg?v=1624306511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588069347437</id>
+      <title>5.5 inch ~ 2.6 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588069347437</id>
+      <title>6 inch ~ 2.9 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588069347437</id>
+      <title>6.5 inch ~ 3.1 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6588069281901</id>
+    <published>2021-06-21T13:14:41-07:00</published>
+    <updated>2021-06-21T13:14:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/060-white-gold-baby-id-figaro"/>
+    <title>060 White Gold Baby ID Figaro</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3136.jpg?v=1624306482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588069281901</id>
+      <title>5.5 inch ~ 2.3 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588069281901</id>
+      <title>6 inch ~ 2.5 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588069281901</id>
+      <title>6.5 inch ~ 2.7 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

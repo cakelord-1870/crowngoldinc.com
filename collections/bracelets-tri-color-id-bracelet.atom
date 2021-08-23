@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://crowngoldinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://crowngoldinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://crowngoldinc.com/collections/bracelets-tri-color-id-bracelet.atom"/>
+  <title>Crown Gold Inc. Wholesale Gold Jewelry</title>
+  <updated>2021-07-27T15:02:39-07:00</updated>
+  <author>
+    <name>Crown Gold Inc. Wholesale Gold Jewelry</name>
+  </author>
+  <entry>
+    <id>https://crowngoldinc.com/products/6612150583405</id>
+    <published>2021-07-27T15:02:39-07:00</published>
+    <updated>2021-07-27T15:02:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/rectangular-virgen-mary-tri-color-id-bracelet"/>
+    <title>Rectangular Virgen Mary Tri Color ID Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3192.jpg?v=1627423368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6612150583405</id>
+      <title>7 inch ~ 11.2 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6612150124653</id>
+    <published>2021-07-27T15:02:02-07:00</published>
+    <updated>2021-07-27T15:02:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/rectangular-flower-tri-color-id-bracelet"/>
+    <title>Rectangular Flower Tri Color ID Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3191.jpg?v=1627423338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6612150124653</id>
+      <title>7 inch ~ 11.2 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6612149829741</id>
+    <published>2021-07-27T15:01:29-07:00</published>
+    <updated>2021-07-27T15:01:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/rectangular-15s-tri-color-id-bracelet"/>
+    <title>Rectangular 15&apos;s Tri Color ID Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3190.jpg?v=1627423303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6612149829741</id>
+      <title>7 inch ~ 10.8 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6612149534829</id>
+    <published>2021-07-27T15:00:33-07:00</published>
+    <updated>2021-07-27T15:00:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/plain-tri-color-id-bracelet"/>
+    <title>Plain Tri Color ID Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3189.jpg?v=1627423249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6612149534829</id>
+      <title>7 inch ~ 10.7 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6612149207149</id>
+    <published>2021-07-27T14:58:50-07:00</published>
+    <updated>2021-07-27T14:58:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/virgen-mary-oval-tri-color-id-bracelet"/>
+    <title>Virgen Mary Oval Tri Color ID Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3188.jpg?v=1627423180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6612149207149</id>
+      <title>7 inch ~ 12.4 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6612149043309</id>
+    <published>2021-07-27T14:58:16-07:00</published>
+    <updated>2021-07-27T14:58:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/15s-oval-tri-color-id-bracelet"/>
+    <title>15&apos;s Oval Tri Color ID Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3187.jpg?v=1627423096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6612149043309</id>
+      <title>7 inch ~ 12.4 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6588502114413</id>
+    <published>2021-06-22T10:47:04-07:00</published>
+    <updated>2021-06-22T10:47:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/flower-tri-color-id-bracelet"/>
+    <title>Flower Tri Color ID Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3148.jpg?v=1627423594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588502114413</id>
+      <title>7 inch ~ 11.7 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588502114413</id>
+      <title>7.5 inch ~ 12.5 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6588501950573</id>
+    <published>2021-06-22T10:46:07-07:00</published>
+    <updated>2021-06-22T10:46:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/lucky-charm-tri-color-id-bracelet"/>
+    <title>Lucky Charm Tri Color ID Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3147.jpg?v=1624383977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588501950573</id>
+      <title>7 inch ~ 11.7 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588501950573</id>
+      <title>7.5 inch ~ 12.5 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6588501262445</id>
+    <published>2021-06-22T10:42:35-07:00</published>
+    <updated>2021-06-22T10:42:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/virgen-mary-tri-color-id-bracelet"/>
+    <title>Virgen Mary Tri Color ID Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3146.jpg?v=1624383821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588501262445</id>
+      <title>7 inch ~ 12.1 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588501262445</id>
+      <title>7.5 inch ~ 13.0 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6588500901997</id>
+    <published>2021-06-22T10:41:03-07:00</published>
+    <updated>2021-06-22T10:41:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/15s-tri-color-id-bracelet"/>
+    <title>15&apos;s Tri Color ID Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3145.jpg?v=1624383707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588500901997</id>
+      <title>7 inch ~ 11.9 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6588500901997</id>
+      <title>7.5 inch ~ 12.8 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

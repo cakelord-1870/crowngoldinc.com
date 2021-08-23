@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://crowngoldinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://crowngoldinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://crowngoldinc.com/collections/chains-figaro-yellow.atom"/>
+  <title>Crown Gold Inc. Wholesale Gold Jewelry</title>
+  <updated>2021-04-09T15:50:44-07:00</updated>
+  <author>
+    <name>Crown Gold Inc. Wholesale Gold Jewelry</name>
+  </author>
+  <entry>
+    <id>https://crowngoldinc.com/products/6559312543853</id>
+    <published>2021-04-09T15:50:44-07:00</published>
+    <updated>2021-04-09T15:50:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/350-yellow-solid-figaro"/>
+    <title>350 Yellow Solid Figaro</title>
+    <s:type>Chain</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3009.jpg?v=1618008645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Chain<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>13.4 mm</li>
+<li>Lobster clasp</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6559312543853</id>
+      <title>24 inch ~ 150.0 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6559312543853</id>
+      <title>26 inch ~ 162.4 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6559312543853</id>
+      <title>28 inch ~ 174.9 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6559312543853</id>
+      <title>30 inch ~ 187.4 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/4917855125613</id>
+    <published>2021-02-19T13:43:25-08:00</published>
+    <updated>2021-02-19T13:43:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/200-yellow-solid-figaro"/>
+    <title>200 Yellow Solid Figaro</title>
+    <s:type>Chain</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/6_ab034286-ec5a-49d1-a0e0-d0bd70519a89.jpg?v=1613771005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Chain<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold </li>
+<li>7.7 mm</li>
+<li>Lobster clasp</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/4917855125613</id>
+      <title>22 inch ~ 37.0 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/4917855125613</id>
+      <title>24 inch ~ 40.7 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/4917855125613</id>
+      <title>26 inch ~ 43.9 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/4917855125613</id>
+      <title>28 inch ~ 47.3 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/4917855125613</id>
+      <title>30 inch ~ 50.6 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/4903422558317</id>
+    <published>2021-02-09T12:13:37-08:00</published>
+    <updated>2021-02-09T12:13:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/yellow-figaro-060"/>
+    <title>060 Yellow Solid Figaro</title>
+    <s:type>Chain</s:type>
+    <s:vendor>Crown Gold Inc. Wholesale Gold Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/13_603e6bd5-1582-4e5b-b499-941740e583d7.jpg?v=1612901447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc. Wholesale Gold Jewelry<br>
+        <strong>Type: </strong>Chain<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">14K Yellow Gold</li>
+<li data-mce-fragment="1">2.2 mm<br>
+</li>
+<li data-mce-fragment="1">Lobster clasp<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Figaro Yellow</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/4903422558317</id>
+      <title>16 inch ~ 3.5 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/4903422558317</id>
+      <title>18 inch ~ 3.9 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/4903422558317</id>
+      <title>20 inch ~ 4.3 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/4903422558317</id>
+      <title>22 inch ~ 4.7 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/4903422558317</id>
+      <title>24 inch ~ 5.1 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/2188389679202</id>
+    <published>2018-10-30T11:06:34-07:00</published>
+    <updated>2018-10-30T11:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/figaro-yellow-40"/>
+    <title>040 Yellow Solid Figaro</title>
+    <s:type>Chain</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/15.jpg?v=1569632117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Chain<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Yellow Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">1.5 mm</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Spring Ring clasp</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Figaro Yellow</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188389679202</id>
+      <title>16 inch ~ 1.8 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188389679202</id>
+      <title>18 inch ~ 1.9 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188389679202</id>
+      <title>20 inch ~ 2.1 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188389679202</id>
+      <title>22 inch ~ 2.4 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188389679202</id>
+      <title>24 inch ~ 2.6 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188389679202</id>
+      <title>26 inch ~ 2.9 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/2188385714274</id>
+    <published>2018-10-30T11:06:34-07:00</published>
+    <updated>2018-10-30T11:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/figaro-yellow-50"/>
+    <title>050 Yellow Solid Figaro</title>
+    <s:type>Chain</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/14.jpg?v=1569632116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Chain<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Yellow Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">1.9 mm<br>
+</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Lobster clasp</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Figaro Yellow</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188385714274</id>
+      <title>16 inch ~ 2.6 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188385714274</id>
+      <title>18 inch ~ 2.8 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188385714274</id>
+      <title>20 inch ~ 3.1 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188385714274</id>
+      <title>22 inch ~ 3.3 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188385714274</id>
+      <title>24 inch ~ 3.3 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188385714274</id>
+      <title>26 inch ~ 3.9 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/2188377817186</id>
+    <published>2018-10-30T11:06:34-07:00</published>
+    <updated>2018-10-30T11:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/figaro-yellow-80"/>
+    <title>080 Yellow Solid Figaro</title>
+    <s:type>Chain</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/12.jpg?v=1569632116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Chain<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Yellow Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">3.1 mm<br>
+</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Lobster clasp</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Figaro Yellow</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188377817186</id>
+      <title>16 inch ~ 4.8 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188377817186</id>
+      <title>18 inch ~ 5.4 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188377817186</id>
+      <title>20 inch ~ 6 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188377817186</id>
+      <title>22 inch ~ 6.6 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188377817186</id>
+      <title>24 inch ~ 7.2 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188377817186</id>
+      <title>26 inch ~ 8.3 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/2188368805986</id>
+    <published>2018-10-30T11:06:34-07:00</published>
+    <updated>2018-10-30T11:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/figaro-yellow-100"/>
+    <title>100 Yellow Solid Figaro</title>
+    <s:type>Chain</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/11.jpg?v=1569632115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Chain<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Yellow Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">3.9 mm<br>
+</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Lobster clasp</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Figaro Yellow</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188368805986</id>
+      <title>16 inch ~ 7.5 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188368805986</id>
+      <title>18 inch ~ 8.5 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188368805986</id>
+      <title>20 inch ~ 9.5 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188368805986</id>
+      <title>22 inch ~ 10.5 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188368805986</id>
+      <title>24 inch ~ 11.2 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188368805986</id>
+      <title>26 inch ~ 12.2 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188368805986</id>
+      <title>28 inch ~ 12.6 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188368805986</id>
+      <title>30 inch ~ 13.9 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/2188363399266</id>
+    <published>2018-10-30T11:06:34-07:00</published>
+    <updated>2018-10-30T11:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/figaro-yellow-120"/>
+    <title>120 Yellow Solid Figaro</title>
+    <s:type>Chain</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/10.jpg?v=1569632114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Chain<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Yellow Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">4.6 mm<br>
+</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Lobster clasp</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Figaro Yellow</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188363399266</id>
+      <title>18 inch ~ 12 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188363399266</id>
+      <title>20 inch ~ 15.4 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188363399266</id>
+      <title>22 inch ~ 17.2 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188363399266</id>
+      <title>24 inch ~ 18.7 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188363399266</id>
+      <title>26 inch ~ 20.7 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188363399266</id>
+      <title>28 inch ~ 22.3 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188363399266</id>
+      <title>30 inch ~ 19.3 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/2188343214178</id>
+    <published>2018-10-30T11:06:34-07:00</published>
+    <updated>2018-10-30T11:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/figaro-yellow-141"/>
+    <title>140 Yellow Solid Figaro</title>
+    <s:type>Chain</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/9_04de1a81-de1b-4b2d-bcd2-a30cb3fa515d.jpg?v=1569632114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Chain<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Yellow Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">5.4 mm<br>
+</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Lobster clasp</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Figaro Yellow</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188343214178</id>
+      <title>20 inch ~ 15.7 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188343214178</id>
+      <title>22 inch ~ 17.4 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188343214178</id>
+      <title>24 inch ~ 19 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188343214178</id>
+      <title>26 inch ~ 20.6 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188343214178</id>
+      <title>28 inch ~ 22.3 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188343214178</id>
+      <title>30 inch ~ 25.5 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/2188328108130</id>
+    <published>2018-10-30T11:06:34-07:00</published>
+    <updated>2018-10-30T11:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/figaro-yellow-161"/>
+    <title>160 Yellow Solid Figaro</title>
+    <s:type>Chain</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/8_c55135cc-0e87-40af-8fca-25a486adfac3.jpg?v=1569632113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Chain<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Yellow Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">6.2 mm<br>
+</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Lobster clasp</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Figaro Yellow</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188328108130</id>
+      <title>20 inch ~ 21.3 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188328108130</id>
+      <title>22 inch ~ 22.2 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188328108130</id>
+      <title>24 inch ~ 25.4 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188328108130</id>
+      <title>26 inch ~ 27.5 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188328108130</id>
+      <title>28 inch ~ 29.7 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188328108130</id>
+      <title>30 inch ~ 32.6 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/2188225249378</id>
+    <published>2018-10-30T11:06:34-07:00</published>
+    <updated>2018-10-30T11:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/figaro-yellow-181"/>
+    <title>180 Yellow Solid Figaro</title>
+    <s:type>Chain</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/7_40d61742-a203-4247-a279-91d674a571f6.jpg?v=1569632110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Chain<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Yellow Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">6.9 mm<br>
+</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Lobster clasp</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Figaro Yellow</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188225249378</id>
+      <title>22 inch ~ 29 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188225249378</id>
+      <title>24 inch ~ 29.6 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188225249378</id>
+      <title>26 inch ~ 31.7 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188225249378</id>
+      <title>28 inch ~ 33.9 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188225249378</id>
+      <title>30 inch ~ 36.3 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/2188218335330</id>
+    <published>2018-10-30T11:06:34-07:00</published>
+    <updated>2018-10-30T11:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/figaro-yellow-221"/>
+    <title>220 Yellow Solid Figaro</title>
+    <s:type>Chain</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/5_a901c106-97be-4412-90a2-03698044fe82.jpg?v=1612904067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Chain<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Yellow Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">8.9 mm</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Lobster clasp</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Figaro Yellow</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188218335330</id>
+      <title>22 inch ~ 50.8 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188218335330</id>
+      <title>24 inch ~ 55.4 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188218335330</id>
+      <title>26 inch ~ 60 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188218335330</id>
+      <title>28 inch ~ 64.5 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188218335330</id>
+      <title>30 inch ~ 69.3 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/2188209782882</id>
+    <published>2018-10-30T11:06:34-07:00</published>
+    <updated>2018-10-30T11:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/figaro-yellow-251"/>
+    <title>250 Yellow Solid Figaro</title>
+    <s:type>Chain</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/4_c9a3dfb1-31c0-41c8-99cd-683649c265d7.jpg?v=1569632109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Chain<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Yellow Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">9.7 mm<br>
+</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Lobster clasp</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Figaro Yellow</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188209782882</id>
+      <title>22 inch ~61.8 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188209782882</id>
+      <title>24 inch ~ 67.4 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188209782882</id>
+      <title>26 inch ~69.6 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188209782882</id>
+      <title>28 inch ~83.6 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188209782882</id>
+      <title>30 inch ~ 96.3 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/2188204146786</id>
+    <published>2018-10-30T11:06:34-07:00</published>
+    <updated>2018-10-30T11:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/figaro-yellow-280"/>
+    <title>280 Yellow Solid Figaro</title>
+    <s:type>Chain</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3_4ab47d6d-b1d1-43bb-9ad9-e1c28694e94e.jpg?v=1569632108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Chain<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Yellow Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">11.2 mm<br>
+</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Lobster clasp</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Figaro Yellow</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188204146786</id>
+      <title>22 inch ~86 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188204146786</id>
+      <title>24 inch ~93.8 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188204146786</id>
+      <title>26 inch ~101.6 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188204146786</id>
+      <title>28 inch ~110.3 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2188204146786</id>
+      <title>30 inch ~ 114.7 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/2185074442338</id>
+    <published>2018-10-30T11:06:34-07:00</published>
+    <updated>2018-10-30T11:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/figaro-yellow-303"/>
+    <title>300 Yellow Solid Figaro</title>
+    <s:type>Chain</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/2_fba515de-6372-44e7-a816-5c2ba665457e.jpg?v=1569632107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Chain<br>
+        <strong>Price: </strong>
+            1000000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 22.5px; min-height: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 15px 0px 15px 0px;">
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">14K Yellow Gold</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">11.8 mm<br>
+</li>
+<li style="cursor: text; font-family: &amp;quot; helvetica neue&amp;quot;,helvetica,arial,sans-serif; font-size: 15px; line-height: 22.5px; min-height: 0px; margin: 0px;">Lobster clasp</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Figaro Yellow</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2185074442338</id>
+      <title>22 inch ~116.1 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2185074442338</id>
+      <title>24 inch ~126.7 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2185074442338</id>
+      <title>26 inch ~135.2 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2185074442338</id>
+      <title>28 inch ~145.6 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/2185074442338</id>
+      <title>30 inch ~155.7 g</title>
+      <s:price currency="USD">1000000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

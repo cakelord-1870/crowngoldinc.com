@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://crowngoldinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://crowngoldinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://crowngoldinc.com/collections/rosaries-yellow-diamond-cut.atom"/>
+  <title>Crown Gold Inc. Wholesale Gold Jewelry</title>
+  <updated>2021-07-27T15:12:50-07:00</updated>
+  <author>
+    <name>Crown Gold Inc. Wholesale Gold Jewelry</name>
+  </author>
+  <entry>
+    <id>https://crowngoldinc.com/products/6612153991277</id>
+    <published>2021-07-27T15:12:50-07:00</published>
+    <updated>2021-07-27T15:12:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/2-0mm-yellow-diamond-cut"/>
+    <title>2.0mm Yellow Diamond Cut</title>
+    <s:type>Rosaries</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3193.jpg?v=1627423971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Rosaries<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>Spring Ring</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6612153991277</id>
+      <title>18 inch ~ 3.8 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6612153991277</id>
+      <title>20 inch ~ 4.2 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6569431433325</id>
+    <published>2021-05-04T15:30:57-07:00</published>
+    <updated>2021-05-04T15:30:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/4mm-yellow-diamond-cut"/>
+    <title>4.0mm Yellow Diamond Cut</title>
+    <s:type>Rosaries</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3057.jpg?v=1620167450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Rosaries<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>4.0 mm</li>
+<li>Lobster clasp</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond Cut Rosaries</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6569431433325</id>
+      <title>24 inch ~ 10.4 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6569431433325</id>
+      <title>26 inch ~ 11.3 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6569431433325</id>
+      <title>28 inch ~ 12.1 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6569432023149</id>
+    <published>2021-04-30T15:56:17-07:00</published>
+    <updated>2021-04-30T15:56:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/8mm-yellow-diamond-cut"/>
+    <title>8.0mm Yellow Diamond Cut</title>
+    <s:type>Rosaries</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3060.jpg?v=1619823335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Rosaries<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>8.0 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond Cut Rosaries</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6569432023149</id>
+      <title>26 inch ~ 43.6 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6569432023149</id>
+      <title>28 inch ~ 46.9 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6569431728237</id>
+    <published>2021-04-30T15:53:36-07:00</published>
+    <updated>2021-04-30T15:53:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/6mm-yellow-diamond-cut"/>
+    <title>6.0mm Yellow Diamond Cut</title>
+    <s:type>Rosaries</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3059.jpg?v=1619823195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Rosaries<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>6.0 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond Cut Rosaries</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6569431728237</id>
+      <title>26 inch ~ 21.0 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6569431728237</id>
+      <title>28 inch ~ 22.6 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6569431531629</id>
+    <published>2021-04-30T15:52:27-07:00</published>
+    <updated>2021-04-30T15:52:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/5mm-yellow-diamond-cut"/>
+    <title>5.0mm Yellow Diamond Cut</title>
+    <s:type>Rosaries</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3058.jpg?v=1619823117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Rosaries<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>5.0 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond Cut Rosaries</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6569431531629</id>
+      <title>26 inch ~ 16.4 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6569431531629</id>
+      <title>28 inch ~ 17.6 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6569431367789</id>
+    <published>2021-04-30T15:50:19-07:00</published>
+    <updated>2021-04-30T15:50:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/3mm-yellow-diamond-cut"/>
+    <title>3.0mm Yellow Diamond Cut</title>
+    <s:type>Rosaries</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3056.jpg?v=1619823020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Rosaries<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>3.0 mm</li>
+<li>Lobster clasp</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond Cut Rosaries</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6569431367789</id>
+      <title>18 inch ~ 5.5 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6569431367789</id>
+      <title>20 inch ~ 6.1 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6569431367789</id>
+      <title>22 inch ~ 6.7 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6569431367789</id>
+      <title>24 inch ~ 7.3 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

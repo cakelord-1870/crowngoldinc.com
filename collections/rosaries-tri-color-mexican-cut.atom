@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://crowngoldinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://crowngoldinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://crowngoldinc.com/collections/rosaries-tri-color-mexican-cut.atom"/>
+  <title>Crown Gold Inc. Wholesale Gold Jewelry</title>
+  <updated>2021-05-04T15:32:41-07:00</updated>
+  <author>
+    <name>Crown Gold Inc. Wholesale Gold Jewelry</name>
+  </author>
+  <entry>
+    <id>https://crowngoldinc.com/products/6570969366637</id>
+    <published>2021-05-04T15:32:41-07:00</published>
+    <updated>2021-05-04T15:32:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/5mm-tri-color-mexican-cut"/>
+    <title>5.0mm Tri Color Mexican Cut</title>
+    <s:type>Rosaries</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3071.jpg?v=1620167561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Rosaries<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>5.0 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mexican Cut Rosaries</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6570969366637</id>
+      <title>26 inch ~ 19.5 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6570969366637</id>
+      <title>28 inch ~ 21.0 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6570967728237</id>
+    <published>2021-05-04T09:55:39-07:00</published>
+    <updated>2021-05-04T09:55:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/4mm-tri-color-mexican-cut"/>
+    <title>4.0mm Tri Color Mexican Cut</title>
+    <s:type>Rosaries</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3070.jpg?v=1620147340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Rosaries<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>4.0 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mexican Cut Rosaries</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6570967728237</id>
+      <title>22 inch ~ 14.9 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6570967728237</id>
+      <title>24 inch ~ 16.3 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6570967728237</id>
+      <title>26 inch ~ 17.7 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

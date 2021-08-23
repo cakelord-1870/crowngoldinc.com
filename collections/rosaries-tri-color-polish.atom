@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://crowngoldinc.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://crowngoldinc.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://crowngoldinc.com/collections/rosaries-tri-color-polish.atom"/>
+  <title>Crown Gold Inc. Wholesale Gold Jewelry</title>
+  <updated>2021-05-04T15:34:35-07:00</updated>
+  <author>
+    <name>Crown Gold Inc. Wholesale Gold Jewelry</name>
+  </author>
+  <entry>
+    <id>https://crowngoldinc.com/products/6571020157037</id>
+    <published>2021-05-04T15:34:35-07:00</published>
+    <updated>2021-05-04T15:34:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/4mm-tri-color-polish"/>
+    <title>4.0mm Tri Color Polish</title>
+    <s:type>Rosaries</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3078.jpg?v=1620167675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Rosaries<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>4.0 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Polish Rosaries</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6571020157037</id>
+      <title>24 inch ~ 12.2 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6571020157037</id>
+      <title>26 inch ~ 13.2 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6571020157037</id>
+      <title>28 inch ~ 14.2 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6571022221421</id>
+    <published>2021-05-04T11:26:57-07:00</published>
+    <updated>2021-05-04T11:26:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/8mm-tri-color-polish"/>
+    <title>8.0mm Tri Color Polish</title>
+    <s:type>Rosaries</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3081.jpg?v=1620152787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Rosaries<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>8.0 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Polish Rosaries</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6571022221421</id>
+      <title>28 inch ~ 59.6 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6571022221421</id>
+      <title>30 inch ~ 63.9 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6571021434989</id>
+    <published>2021-05-04T11:25:30-07:00</published>
+    <updated>2021-05-04T11:25:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/6mm-tri-color-polish"/>
+    <title>6.0mm Tri Color Polish</title>
+    <s:type>Rosaries</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3080.jpg?v=1620152704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Rosaries<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>6.0 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Polish Rosaries</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6571021434989</id>
+      <title>26 inch ~ 29.3 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6571021434989</id>
+      <title>28 inch ~ 31.6 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6571020779629</id>
+    <published>2021-05-04T11:24:09-07:00</published>
+    <updated>2021-05-04T11:24:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/5mm-tri-color-polish"/>
+    <title>5.0mm Tri Color Polish</title>
+    <s:type>Rosaries</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3079.jpg?v=1620152624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Rosaries<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>5.0 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Polish Rosaries</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6571020779629</id>
+      <title>26 inch ~ 19.5 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6571020779629</id>
+      <title>28 inch ~ 21.0 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crowngoldinc.com/products/6571017896045</id>
+    <published>2021-05-04T11:19:26-07:00</published>
+    <updated>2021-05-04T11:19:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://crowngoldinc.com/products/3mm-tri-color-polish"/>
+    <title>3.0mm Tri Color Polish</title>
+    <s:type>Rosaries</s:type>
+    <s:vendor>Crown Gold Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0064/0221/1938/products/3077.jpg?v=1620152311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Gold Inc.<br>
+        <strong>Type: </strong>Rosaries<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14k Gold</li>
+<li>3.0 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Polish Rosaries</s:tag>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6571017896045</id>
+      <title>18 inch ~ 7.6 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6571017896045</id>
+      <title>20 inch ~ 8.4 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6571017896045</id>
+      <title>22 inch ~ 9.3 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crowngoldinc.com/products/6571017896045</id>
+      <title>24 inch ~ 10.1 g</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
